@@ -1,0 +1,15 @@
+//  @Override
+//  public void start() throws Exception {
+//    super.start();
+//    vertx.createHttpServer()
+//      .requestHandler(req -> req.response().end("Hello Vert.x!"))
+//      .listen(8080);
+//  }
+
+
+
+//    router.get("/wiki/:page").handler(this::pageRenderingHandler);
+//    router.post().handler(BodyHandler.create());
+//    router.post("/save").handler(this::pageUpdateHandler);
+//    router.post("/create").handler(this::pageCreateHandler);
+//    router.post("/delete").handler(this::pageDeletionHandler);
